@@ -1,5 +1,5 @@
-<span style="font-size:200%">글결 (GeulGyeol)</span> <img src="image.png" alt="alt text" width="20">
-<hr/>
+#### 단어로 글의 결을 읽다
+# 글결 (GeulGyeol) <img src="image.png" alt="alt text" width="20">
 <span>웹에서 드래그하여 유의어를 검색할 수 있는 Google 확장 프로그램</span>
 
 <br/>
@@ -152,6 +152,11 @@
 
 <br/>
 
-## 👭 팀 구성
+## 👭 팀 구성 및 역할
 
-- **팀원:** 남기연, 박서연, 이서윤  
+- **남기연**: PM, 기획
+   - [남기연 깃허브 링크](https://github.com/Kiyeon-Nam)  
+- **박서연**: 백엔드
+   - [박서연 깃허브 링크](https://github.com/seoyeonpak) 
+- **이서윤**: 프론트엔드
+   - [이서윤 깃허브 링크](https://github.com/katalsye) 
